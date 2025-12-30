@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Hole
 
-<!--
-**Shubham-Hole/Shubham-Hole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Cybersecurity & SOC Analyst Fresher**  
+🔐 Focused on Blue Team, SIEM, IDS/IPS & Log Analysis  
+💻 Hands-on experience with real-world home labs and security monitoring tools
 
-Here are some ideas to get you started:
+---
+## 🧠 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Operating Systems:** Ubuntu, Kali Linux, Windows
+- **SIEM & Monitoring:** Wazuh, Splunk, Microsoft Sentinel (Basics)
+- **Network Security:** Suricata (IDS/IPS), Wireshark, TCP/IP
+- **Attack Simulation:** Nmap, Hydra, hping3, DVWA
+- **Log Analysis:** Linux logs, Web logs, Security alerts
+- **Scripting & Tools:** Python (basic) 
+
+---
+## 🔬 Cybersecurity Projects
+
+### 🔹 Suricata IDS/IPS Home Lab
+📌 Configured Suricata in IDS and IPS mode with custom rules  
+📌 Detected ICMP flood & DoS attacks using NFQUEUE  
+📌 Simulated attacks from Kali Linux and analyzed alerts  
+
+🔗 Repo: https://github.com/yourusername/suricata-ids-ips-lab
+
+---
+
+### 🔹 Wazuh SIEM – File Integrity Monitoring
+📌 Deployed Wazuh SIEM on Ubuntu  
+📌 Monitored file changes and generated real-time alerts  
+📌 Analyzed security events on Wazuh dashboard  
+
+🔗 Repo: https://github.com/yourusername/wazuh-fim-lab
+
+---
+
+### 🔹 Splunk SIEM – Log Analysis (TryHackMe)
+📌 Ingested and analyzed logs using SPL queries  
+📌 Investigated security events aligned with SOC fundamentals  
+
+🔗 Repo: https://github.com/yourusername/splunk-log-analysis
+
+---
+
+
+
