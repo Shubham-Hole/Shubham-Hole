@@ -22,7 +22,7 @@
 📌 Detected ICMP flood & DoS attacks using NFQUEUE  
 📌 Simulated attacks from Kali Linux and analyzed alerts  
 
-🔗 Repo: https://github.com/yourusername/suricata-ids-ips-lab
+🔗 Repo: https://github.com/Shubham-Hole/-Suricata-IDS-IPS-Home-Lab
 
 ---
 
@@ -31,7 +31,7 @@
 📌 Monitored file changes and generated real-time alerts  
 📌 Analyzed security events on Wazuh dashboard  
 
-🔗 Repo: https://github.com/yourusername/wazuh-fim-lab
+🔗 Repo: https://github.com/Shubham-Hole/Wazuh-SIEM-File-Integrity-Monitoring-Home-Lab-
 
 ---
 
@@ -39,7 +39,7 @@
 📌 Ingested and analyzed logs using SPL queries  
 📌 Investigated security events aligned with SOC fundamentals  
 
-🔗 Repo: https://github.com/yourusername/splunk-log-analysis
+🔗 Repo: https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp
 
 ---
 
