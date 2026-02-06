@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Shubham Hole
 
-🎯 **Cybersecurity & SOC Analyst Fresher**  
-🔐 Focused on Blue Team, SIEM, IDS/IPS & Log Analysis  
-💻 Hands-on experience with real-world home labs and security monitoring tools
+🎯 Entry-Level IT Support / Technical Support Fresher  
+🔐 Aspiring Cybersecurity & SOC Analyst
+
+I am a motivated fresher with hands-on experience in IT support fundamentals such as
+system troubleshooting, networking basics, Linux administration, and user support.
+Alongside IT support, I actively build cybersecurity home labs to strengthen my
+security monitoring and SOC skills.
 
 ---
 ## 🧠 Skills & Technologies
@@ -14,6 +18,15 @@
 - **Log Analysis:** Linux logs, Web logs, Security alerts
 - **Scripting & Tools:** Python (basic) 
 
+---
+
+📂 What you’ll find in my repositories:
+
+ - IT Support practice labs & notes
+ - Linux & networking exercises
+ - Cybersecurity home lab projects
+ - SIEM & log analysis demos
+ - Learning documentation and scripts
 ---
 ## 🔬 Cybersecurity Projects
 
